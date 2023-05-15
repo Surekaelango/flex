@@ -1,0 +1,38 @@
+body
+{
+background-color: black;
+}
+body
+{
+color: aliceblue;
+}
+h1{
+    font-size: 2cm;
+    font-weight: lighter;
+}
+p{
+   font-weight: lighter;
+   font-size: 1cm;
+}
+img{
+    height: 275px;
+    width: 1200px;
+}
+h2,h3,h4{
+    width: 900px;
+    text-align: right;
+    margin-right: 3%;
+    font-weight: lighter;
+    font-size: 0.3cm;
+}
+hr{
+    width:450px;
+    text-align: right;
+    margin-right: -350px;;
+    font-weight: lighter;
+}
+span{
+    font-size: 1cm;
+    position: absolute;
+
+}
